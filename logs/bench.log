@@ -1,0 +1,7 @@
+2017-12-10 10:38:33,981 INFO getting app erpnext
+2017-12-10 10:38:34,023 INFO git clone https://github.com/frappe/erpnext --branch develop --depth 1 --origin upstream
+2017-12-10 10:38:45,448 INFO installing erpnext
+2017-12-10 10:38:45,448 INFO ./env/bin/pip install -q  -e ./apps/erpnext --no-cache-dir
+2017-12-12 09:40:16,317 INFO creating new app library_management
+2017-12-12 09:40:30,056 INFO installing library_management
+2017-12-12 09:40:30,056 INFO ./env/bin/pip install -q  -e ./apps/library_management --no-cache-dir
