@@ -2,6 +2,7 @@
  "db_name": "00299a408dc3498a", 
  "db_password": "pq1Zbx2eBKEr6eRn", 
  "developer_mode": 1, 
+ "dormant": true, 
  "limits": {
   "space_usage": {
    "backup_size": 1.0, 

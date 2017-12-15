@@ -1,0 +1,1971 @@
+[DEBUG] 2017-12-12 15:01:14,422 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:02:14,541 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:02:14,590 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:03:14,662 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:03:14,676 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:04:14,763 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:04:14,779 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:05:14,864 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:05:14,878 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:06:14,988 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:06:15,087 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:07:15,170 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:07:15,184 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:08:15,224 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:08:15,244 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:09:15,318 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:09:15,332 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:10:15,483 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:10:15,531 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:11:15,622 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:11:15,636 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:12:15,725 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:12:15,740 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:13:15,824 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:13:15,851 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:14:15,987 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:14:16,041 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:15:16,131 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:15:16,156 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:16:16,248 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:16:16,269 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:17:16,357 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:17:16,373 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:18:16,507 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:18:16,557 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:19:16,646 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:19:16,661 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:20:16,742 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:20:16,765 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:21:16,865 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:21:16,882 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:22:16,989 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:22:17,039 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:23:17,133 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:23:17,149 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:24:17,247 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:24:17,265 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:25:17,364 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:25:17,379 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:26:17,501 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:26:17,562 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:27:17,642 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:27:17,662 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:28:17,748 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:28:17,761 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:29:17,800 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:29:17,814 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:30:17,919 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:30:18,030 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:31:18,116 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:31:18,135 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:32:18,226 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:32:18,250 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:33:18,338 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:33:18,353 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:34:18,473 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:34:18,535 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:35:18,602 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:35:18,616 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:36:18,697 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:36:18,711 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:37:18,792 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:37:18,812 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:38:18,919 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:38:18,963 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:39:19,062 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:39:19,087 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:40:19,141 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:40:19,155 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:41:19,237 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:41:19,251 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:42:19,375 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:42:19,427 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:43:19,511 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:43:19,526 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:44:19,613 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:44:19,627 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:45:19,721 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:45:19,734 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:46:19,839 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:46:19,887 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:47:19,969 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:47:19,983 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:48:20,070 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:48:20,089 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:49:20,179 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:49:20,193 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:50:20,308 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:50:20,354 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:51:20,441 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:51:20,457 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:52:20,528 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:52:20,541 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:53:20,597 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:53:20,610 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:54:20,718 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:54:20,763 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:55:20,840 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:55:20,864 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:56:20,927 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:56:20,954 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:57:21,013 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:57:21,029 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:58:21,151 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:58:21,194 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 15:59:21,289 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 15:59:21,303 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:00:21,380 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:00:21,407 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:01:21,487 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:01:21,501 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:02:21,611 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:02:21,672 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:03:21,756 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:03:21,774 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:04:21,857 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:04:21,873 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:05:21,956 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:05:21,972 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:06:22,089 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:06:22,138 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:07:22,232 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:07:22,246 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:08:22,328 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:08:22,348 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:09:22,427 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:09:22,447 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:10:22,555 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:10:22,603 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:11:22,698 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:11:22,711 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:12:22,799 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:12:22,813 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:13:22,872 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:13:22,910 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:14:23,019 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:14:23,062 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:15:23,106 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:15:23,120 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:16:23,204 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:16:23,219 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:17:23,330 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:17:23,344 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:18:23,487 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:18:23,548 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:19:23,633 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:19:23,658 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:20:23,753 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:20:23,769 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:21:23,865 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:21:23,882 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:22:24,016 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:22:24,077 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:23:24,154 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:23:24,168 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:24:24,233 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:24:24,247 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:25:24,320 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:25:24,333 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:26:24,442 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:26:24,485 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:27:24,590 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:27:24,604 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:28:24,700 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:28:24,723 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:29:24,814 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:29:24,841 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:30:24,971 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:30:25,058 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:31:25,153 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:31:25,167 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:32:25,291 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:32:25,304 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:33:25,380 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:33:25,398 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:34:25,523 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:34:25,565 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:35:25,656 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:35:25,670 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:36:25,755 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:36:25,776 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:37:25,861 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:37:25,880 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:38:25,986 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:38:26,032 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:39:26,119 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:39:26,132 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:40:26,213 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:40:26,226 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:41:26,306 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:41:26,321 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:42:26,440 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:42:26,488 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:43:26,570 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:43:26,587 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:44:26,670 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:44:26,689 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:45:26,730 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:45:26,744 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:46:26,847 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:46:26,893 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:47:26,983 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:47:27,000 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:48:27,080 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:48:27,112 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:49:27,211 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:49:27,243 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:50:27,364 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:50:27,409 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:51:27,492 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:51:27,515 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:52:27,595 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:52:27,615 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:53:27,702 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:53:27,717 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:54:27,866 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:54:27,938 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:55:28,005 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:55:28,020 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:56:28,108 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:56:28,132 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:57:28,218 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:57:28,233 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:58:28,347 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:58:28,405 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 16:59:28,502 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 16:59:28,521 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:00:28,608 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:00:28,626 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:01:28,675 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:01:28,700 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:02:28,784 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:02:28,841 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:03:28,919 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:03:28,952 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:04:29,036 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:04:29,052 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:05:29,143 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:05:29,160 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:06:29,287 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:06:29,363 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:07:29,431 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:07:29,447 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:08:29,533 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:08:29,558 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:09:29,644 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:09:29,660 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:10:29,775 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:10:29,832 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:11:29,912 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:11:29,927 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:12:29,995 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:12:30,009 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:13:30,112 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:13:30,127 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:14:30,223 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:14:30,274 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:15:30,375 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:15:30,391 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:16:30,482 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:16:30,498 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:17:30,594 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:17:30,608 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:18:30,707 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:18:30,771 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:19:30,855 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:19:30,886 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:20:30,962 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:20:30,980 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:21:31,060 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:21:31,078 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:22:31,213 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:22:31,264 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:23:31,351 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:23:31,365 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:24:31,450 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:24:31,476 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:25:31,540 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:25:31,571 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:26:31,695 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:26:31,748 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:27:31,836 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:27:31,851 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:28:31,919 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:28:31,934 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:29:32,031 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:29:32,049 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:30:32,124 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:30:32,216 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:31:32,310 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:31:32,329 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:32:32,416 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:32:32,431 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:33:32,525 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:33:32,541 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:34:32,631 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:34:32,680 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:35:32,766 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:35:32,781 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:36:32,890 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:36:32,910 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:37:32,998 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:37:33,013 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:38:33,151 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:38:33,211 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:39:33,300 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:39:33,315 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:40:33,406 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:40:33,439 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:41:33,522 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:41:33,537 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:42:33,667 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:42:33,710 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:43:33,783 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:43:33,801 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:44:33,856 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:44:33,869 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:45:33,953 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:45:33,965 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:46:34,091 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:46:34,146 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:47:34,223 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:47:34,237 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:48:34,321 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:48:34,350 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:49:34,434 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:49:34,449 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:50:34,527 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:50:34,571 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:51:34,703 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:51:34,716 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:52:34,806 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:52:34,821 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:53:34,900 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:53:34,927 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:54:35,054 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:54:35,092 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:55:35,139 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:55:35,153 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:56:35,283 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:56:35,297 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:57:35,379 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:57:35,393 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:58:35,491 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:58:35,550 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 17:59:35,626 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 17:59:35,639 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:00:35,722 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:00:35,737 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:01:35,806 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:01:35,818 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:02:35,939 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:02:35,979 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:03:36,067 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:03:36,084 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:04:36,168 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:04:36,183 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:05:36,255 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:05:36,320 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:06:36,439 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:06:36,481 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:07:36,561 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:07:36,586 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:08:36,669 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:08:36,684 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:09:36,760 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:09:36,786 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:10:36,899 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:10:36,945 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:11:37,032 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:11:37,048 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:12:37,134 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:12:37,148 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:13:37,201 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:13:37,218 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:14:37,350 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:14:37,402 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:15:37,483 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:15:37,512 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:16:37,579 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:16:37,603 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:17:37,689 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:17:37,710 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:18:37,818 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:18:37,868 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:19:37,963 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:19:37,978 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:20:38,070 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:20:38,088 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:21:38,195 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:21:38,209 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:22:38,319 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:22:38,368 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:23:38,453 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:23:38,495 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:24:38,532 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:24:38,547 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:25:38,628 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:25:38,654 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:26:38,763 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:26:38,807 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:27:38,853 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:27:38,866 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:28:38,945 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:28:38,960 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:29:39,040 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:29:39,063 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:30:39,259 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:30:39,607 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:31:39,690 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:31:39,711 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:32:39,801 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:32:39,855 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:33:39,921 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:33:39,935 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:34:40,026 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:34:40,087 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:35:40,179 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:35:40,194 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:36:40,275 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:36:40,290 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:37:40,370 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:37:40,382 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:38:40,476 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:38:40,516 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:39:40,599 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:39:40,621 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:40:40,696 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:40:40,711 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:41:40,791 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:41:40,816 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:42:40,906 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:42:40,947 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:43:41,028 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:43:41,042 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:44:41,128 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:44:41,142 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:45:41,185 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:45:41,198 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:46:41,292 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:46:41,334 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:47:41,421 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:47:41,436 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:48:41,517 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:48:41,533 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:49:41,628 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:49:41,644 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:50:41,739 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:50:41,792 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:51:41,881 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:51:41,900 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:52:41,989 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:52:42,003 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:53:42,095 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:53:42,108 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:54:42,194 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:54:42,239 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:55:42,324 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:55:42,337 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:56:42,418 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:56:42,430 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:57:42,542 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:57:42,556 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:58:42,655 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:58:42,694 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 18:59:42,764 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 18:59:42,788 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:00:42,888 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:00:42,906 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:01:42,992 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:01:43,008 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:02:43,088 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:02:43,140 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:03:43,226 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:03:43,244 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:04:43,326 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:04:43,342 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:05:43,415 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:05:43,428 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:06:43,520 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:06:43,572 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:07:43,643 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:07:43,656 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:08:43,729 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:08:43,742 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:09:43,836 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:09:43,850 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:10:43,936 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:10:43,992 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:11:44,080 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:11:44,106 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:12:44,191 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:12:44,206 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:13:44,305 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:13:44,319 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:14:44,408 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:14:44,455 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:15:44,534 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:15:44,563 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:16:44,666 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:16:44,679 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:17:44,761 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:17:44,778 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:18:44,867 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:18:44,911 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:19:44,995 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:19:45,012 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:20:45,096 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:20:45,111 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:21:45,196 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:21:45,214 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:22:45,302 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:22:45,347 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:23:45,422 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:23:45,443 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:24:45,489 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:24:45,506 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:25:45,587 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:25:45,601 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:26:45,688 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:26:45,727 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:27:45,833 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:27:45,853 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:28:45,939 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:28:45,951 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:29:46,035 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:29:46,052 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:30:46,161 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:30:46,236 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:31:46,316 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:31:46,330 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:32:46,401 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:32:46,417 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:33:46,504 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:33:46,518 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:34:46,618 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:34:46,673 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:35:46,732 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:35:46,760 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:36:46,855 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:36:46,871 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:37:46,921 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:37:46,939 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:38:47,040 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:38:47,098 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:39:47,191 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:39:47,205 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:40:47,281 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:40:47,297 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:41:47,378 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:41:47,405 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:42:47,501 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:42:47,542 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:43:47,627 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:43:47,642 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:44:47,723 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:44:47,739 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:45:47,832 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:45:47,848 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:46:47,931 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:46:47,978 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:47:48,064 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:47:48,079 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:48:48,173 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:48:48,188 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:49:48,282 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:49:48,297 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:50:48,388 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:50:48,442 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:51:48,530 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:51:48,555 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:52:48,643 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:52:48,658 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:53:48,746 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:53:48,781 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:54:48,873 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:54:48,919 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:55:48,986 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:55:49,005 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:56:49,081 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:56:49,096 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:57:49,199 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:57:49,216 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:58:49,319 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:58:49,364 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 19:59:49,447 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 19:59:49,462 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:00:49,536 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:00:49,556 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:01:49,604 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:01:49,618 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:02:49,721 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:02:49,762 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:03:49,847 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:03:49,860 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:04:49,947 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:04:49,975 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:05:50,081 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:05:50,107 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:06:50,155 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:06:50,196 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:07:50,276 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:07:50,297 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:08:50,380 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:08:50,397 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:09:50,479 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:09:50,493 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:10:50,595 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:10:50,659 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:11:50,739 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:11:50,753 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:12:50,858 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:12:50,881 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:13:50,931 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:13:50,956 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:14:51,055 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:14:51,108 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:15:51,189 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:15:51,204 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:16:51,262 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:16:51,289 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:17:51,394 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:17:51,413 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:18:51,544 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:18:51,590 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:19:51,681 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:19:51,694 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:20:51,774 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:20:51,800 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:21:51,881 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:21:51,895 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:22:51,976 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:22:52,021 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:23:52,120 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:23:52,133 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:24:52,192 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:24:52,205 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:25:52,272 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:25:52,286 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:26:52,377 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:26:52,419 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:27:52,472 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:27:52,512 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:28:52,594 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:28:52,607 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-12-12 20:29:52,684 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: library
+Queued events for site library
+[DEBUG] 2017-12-12 20:29:52,696 | /home/waleedkm60/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
